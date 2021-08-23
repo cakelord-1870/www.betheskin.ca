@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.betheskin.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.betheskin.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.betheskin.ca/collections/all.atom"/>
+  <title>BeTheSkin </title>
+  <updated>2020-12-04T17:14:52-05:00</updated>
+  <author>
+    <name>BeTheSkin </name>
+  </author>
+  <entry>
+    <id>https://www.betheskin.ca/products/4686086373422</id>
+    <published>2020-12-04T17:14:52-05:00</published>
+    <updated>2020-12-04T17:14:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betheskin.ca/products/betheskin-digital-gift-card"/>
+    <title>BeTheSkin Digital Gift Card</title>
+    <s:type></s:type>
+    <s:vendor>BeTheSkin </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0056/6054/0995/products/GiftCard.jpg?v=1607120093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeTheSkin <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            50.00 - 300.00
+            <a href="https://www.betheskin.ca/products/betheskin-digital-gift-card">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="text-align-center" data-mce-fragment="1">Treat your loved ones with what they really want. </p>
+<p class="text-align-center" data-mce-fragment="1">Our Digital Gift Card makes the perfect gift for your family, friends, co-workers, and employees.</p>
+<p class="text-align-center" data-mce-fragment="1">After the purchase, you will receive the Digital Gift Card via email. Simply forward it to your loved ones. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gift card</s:tag>
+    <s:variant>
+      <id>https://www.betheskin.ca/products/4686086373422</id>
+      <title>CA$50.00</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betheskin.ca/products/4686086373422</id>
+      <title>CA$100.00</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betheskin.ca/products/4686086373422</id>
+      <title>CA$200.00</title>
+      <s:price currency="CAD">200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.betheskin.ca/products/4686086373422</id>
+      <title>CA$300.00</title>
+      <s:price currency="CAD">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betheskin.ca/products/1657193168963</id>
+    <published>2018-10-07T23:50:08-04:00</published>
+    <updated>2018-10-07T23:50:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betheskin.ca/products/botanical-nutrition-cream"/>
+    <title>BOTANICAL NUTRITION CREAM</title>
+    <s:type></s:type>
+    <s:vendor>BeTheSkin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0056/6054/0995/products/BOTANICAL_NUTRITION_CREAM.PNG?v=1539127456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeTheSkin<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<p><span>A moisturizing cream filled with rich natural ingredients to help lock in moisture. Formulated with a luxurious blend of nourishing olive oil combined with balancing botanical herbs, this cream will seal in all the hard work from the other products from your skincare routine. Delivers hydration while helping to soothe and calm skin. </span><br><span>Ideal for all combination skin.</span><br><br><span>Size: 50ml</span></p>
+<p><span><img src="//cdn.shopify.com/s/files/1/0056/6054/0995/files/nutrition_cream.png?v=1542410724" alt="" style="display: block; margin-left: auto; margin-right: auto;"></span></p>
+<div class="meta-title">INGREDIENTS</div>
+<div class="meta-description">Water, Laurus Nobillus Leaf Extract, Butylene Glycol, Caprylic/capric Triglyceride, Glycerin, Olea Europaea (olive) Fruit Oil, Sodium Hyaluronate, Cyclopentasiloxane, Cetearyl Alcohol, Polyglyceryl-3 Methylglucose Distearate, Cetearyl Olivate, Sorbitan Olivate, Saccharide Isomerate, Piper Methysticum Leaf/root/stem Extract, Artemisia Umbelliformis Extract, Buddleja Davidii Extract, Thymus Vulgaris (thyme) Extract, Disodium Adenosine Triphosphate, Algin, Carica Papaya (papaya) Fruit Extract, Glyceryl Stearate, Peg-100 Stearate, Phenoxyethanol, Sodium Acrylate/sodium Acryloyldimethyl Taurate Copolymer, Isohexadecane, Polysorbate 80, Stearyl Glycyrrhetinate, Tocopheryl Acetate, Arginine, Methylparaben, Carbomer, Ethylparaben, Propylparaben, Ethylhexylglycerin, Butylparaben, Fragrance</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nutrition care</s:tag>
+    <s:variant>
+      <id>https://www.betheskin.ca/products/1657193168963</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betheskin.ca/products/1657167740995</id>
+    <published>2018-10-07T23:47:06-04:00</published>
+    <updated>2018-10-07T23:47:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betheskin.ca/products/botanical-nutrition-serum"/>
+    <title>BOTANICAL NUTRITION SERUM</title>
+    <s:type></s:type>
+    <s:vendor>BeTheSkin </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0056/6054/0995/products/BOTANICAL_NUTRITION_SERUM.PNG?v=1538970547"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeTheSkin <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<p><span>This all-natural serum facilitates hydration and helps improve skin health thanks to the properties of powerful botanicals. The skin is left feeling more rejuvenated and looking moisturized, which is an important foundation to healthy skin.</span><br><span>Ideal for all skin types.</span><br><br><span>Size: 50ml</span></p>
+<div class="meta-title">HOW TO USE</div>
+<div class="meta-description">Cleanse and tone face. Apply 1-2 pumps of serum all over the face. Gently pat product into the skin with fingertips. Follow with Botanical Nutrition Serum then Cream for best results.</div>
+<div class="meta-description"></div>
+<div class="meta-description"></div>
+<div class="meta-description">
+<div id="meta-details" class="row">
+<div class="col-xs-12 col-md-4">
+<div class="meta-title">THE MUST KNOW</div>
+<div class="meta-description">(1) A hydrating serum featuring olive extract and hyaluronic acid<br>(2) Features natural ingredients like bay leaf and papaya, both known to have healing and soothing properites<br>(3) A lightweight, easily absorbable texture</div>
+<div class="meta-description"></div>
+<div class="meta-description">
+<div class="meta-title">INGREDIENTS</div>
+<div class="meta-description">Water, Laurus Nobilis Leaf Extract, Butylene Glycol, Cetyl Ethylhexanoate, Glycerin, Cyclopentasiloxane, Olea Europaea (olive) Fruit Oil, Sodium Hyaluronate, Cetearyl Alcohol, Polyglyceryl-3 Methylglucose Distearate, Cetearyl Olivate, Sorbitan Olivate, Saccharide Isomerate, Disodium Adenosine Triphosphate, Algin, Carica Papaya (papaya) Fruit Extract, Artemisia Umbelliformis Extract, Buddleja Davidii Extract, Thymus Vulgaris (thyme) Extract, Piper Methysticum Leaf/root/stem Extract, Dimethicone, Dimethicone/vinyl Dimethicone Cross Polymer, Phenoxyethanol, Arginine, Stearyl Glycyrrhetinate, Methylparaben, Ethylparaben, Carbomer, Ethylhexylglycerin, Sodium Acrylate/sodium Acryloyldimethyl Taurate Copolymer, Isohexadecane, Polysorbate 80, Butylparaben, Fragrance</div>
+</div>
+</div>
+</div>
+<div class="cross-sell" id="cross-sell"></div>
+</div>
+<div class="meta-description"></div>
+<div class="meta-description"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nutrition care</s:tag>
+    <s:variant>
+      <id>https://www.betheskin.ca/products/1657167740995</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betheskin.ca/products/1657139200067</id>
+    <published>2018-10-07T23:45:16-04:00</published>
+    <updated>2018-10-07T23:45:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betheskin.ca/products/botanical-nutrition-toner"/>
+    <title>BOTANICAL NUTRITION TONER</title>
+    <s:type></s:type>
+    <s:vendor>BeTheSkin </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0056/6054/0995/products/BOTANICAL_NUTRITION_TONER.PNG?v=1538970851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeTheSkin <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<p><span>An all-natural, no-frills toner that balances the skin's pH level thanks to botanicals and timeless herbs. Helps prep skin with hydration for following serums and lotions and has herbal botanicals with anti-bacterial properties to combat any trouble-areas on your skin. </span><br><span>Appropriate for all skin types. Ideal for combination.</span><br><br><span>Size: 150ml</span></p>
+<div class="meta-title">HOW TO USE</div>
+<div class="meta-title"></div>
+<div class="meta-description">Cleanse face thoroughly then pat dry. Place a dime-size amount of toner either (1) in the palm of your hand and pat onto the face or (2) on a cotton pad or ball and swipe over skin. Follow up with the remaining steps of the skincare routine.</div>
+<p> </p>
+<div class="meta-title">THE MUST KNOW</div>
+<div class="meta-title"></div>
+<div class="meta-description">(1) A pH balancing toner ideal for normal skin<br>(2) Features refreshing and anti-bacterial botanicals like witch hazel and thyme to combat acne<span> </span><br>(3) Hyaluronic acid nourishes and hydrates to create hydrated balance in your skin.</div>
+<div class="meta-description"></div>
+<div class="meta-description">
+<div class="meta-title">INGREDIENTS</div>
+<div class="meta-title"></div>
+<div class="meta-description">Water, Laurus Nobilis  Leaf Extract, Butylene Glycol, Alcohol, Hamamelis Virginiana (witch Hazel) Leaf Extract, Artemisia Umbelliformis Extract, Buddleja Davidii Extract, Thymus Vulgaris (thyme) Extract, Piper methysticum Leaf/root/stem Extract, Sodium Hyaluronate, Sodium Pca, Dipotassium Glycyrrhizate, Peg-60 Hydrogenated Castor Oil, Methylparaben, Sodium Citrate, Disodium Edta, Citric Acid, Fragrance</div>
+</div>
+<div class="meta-description"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nutrition care</s:tag>
+    <s:variant>
+      <id>https://www.betheskin.ca/products/1657139200067</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betheskin.ca/products/1657085493315</id>
+    <published>2018-10-07T23:37:27-04:00</published>
+    <updated>2018-10-07T23:37:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betheskin.ca/products/botanical-nutrition-power-cream"/>
+    <title>BOTANICAL NUTRITION POWER CREAM</title>
+    <s:type></s:type>
+    <s:vendor>BeTheSkin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0056/6054/0995/products/BOTANICAL_NUTRITION_POWER_CREAM.PNG?v=1538970092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeTheSkin<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            61.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A cream formulated with all-natural and healthy botanicals that help your skin seal in moisture. Keeps skin dewy and hydrated even on the driest days. </span><br><br><span>Ideal for dry skin.</span><br><br><span>Size: 50ml</span></p>
+<div class="meta-title">INGREDIENTS</div>
+<div class="meta-description">Water, Glycerin, Butylene Glycol, Squalane, Cetearyl Alcohol, Macadamia Ternifolia Seed Oil, Dimethicone, Hydrogenate Caster Oil Stearate, Butylene Glycol Dicaprylate/Dicaprate, Cetearyl Glucoside, Laurus Nobilis Leaf Extract, Scutellaria Baicalensis Root Extract, Paeonia Suffruticosa Root Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Sodium Hyaluronate, Hydrogenated Lecithin, Simmondsia Chinensis (Jojoba) Seed Oil, Santalum Album (Sandalwood) Wood Extract, Phellodendron Amurense Bark Extract, Hordeum Distichon (Barley) Extract, Lactobacillus/Soybean Ferment Extract, Saccharomyces/Viscum Album (Mistletoe) Ferment Extract, Saccharomyces/Imperata Cylindrica Root Ferment Extract, Sorbitan Stearate, PEG-60 Hydrogenated Castor Oil, Saccharide Isomerate, Buddleja Davidii Extract, Thymus Vulgaris (Thyme) Flower/Leaf Extract, Artemisia Umbelliformis Extract, Honey Extract, Royal Jelly Extract, Arginine, Panthenol, Arnica Montana Flower Extract, Cucumis Sativus (Cucumber) Fruit Extract, Hedera Helix (Ivy) Extract, Sambucus Nigra Flower Extract, Malva Sylvestris (Mallow) Flower/Leaf/Stem Extract, Parietaria Officinalis Extract, Mentha Piperita (Peppermint) Leaf Extract, Primula Veris Extract, Alchemilla Vulgaris Extract, Veronica Officinalis Flower/Leaf/Stem Extract, Melissa Officinalis Leaf Extract, Achillea Millefolium Extract, Carbomer, Xanthan Gum, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Isohexadecane, Polysorbate 80, Fragrance</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>power care</s:tag>
+    <s:variant>
+      <id>https://www.betheskin.ca/products/1657085493315</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">61.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betheskin.ca/products/1657064292419</id>
+    <published>2018-10-07T23:34:28-04:00</published>
+    <updated>2018-10-07T23:34:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betheskin.ca/products/botanical-nutrition-power-serum"/>
+    <title>BOTANICAL NUTRITION POWER SERUM</title>
+    <s:type></s:type>
+    <s:vendor>BeTheSkin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0056/6054/0995/products/BOTANICAL_NUTRITION_POWER_SERUM.PNG?v=1538969827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeTheSkin<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            57.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This serum draws on botanical herbs that have been used for thousands of years in Asian history to hydrate and help with signs of aging skin. This best-selling serum helps to impart moisture and radiance to dry, dull skin.<br></p>
+<p><span>Ideal for dry skin.</span><br><br><span>Size: 50ml</span></p>
+<div class="meta-title">HOW TO USE</div>
+<div class="meta-title"></div>
+<div class="meta-description">Cleanse and tone face. Apply 1-2 pumps of serum all over face or concentrate to dryer areas. Gently pat product into the skin with fingertips. Follow with Botanical Nutrition Power Cream for best results.</div>
+<div class="meta-description"></div>
+<div class="meta-description">
+<div class="meta-title">THE MUST KNOW</div>
+<div class="meta-title"></div>
+<div class="meta-description">(1) A serum formulated for excessively dry skin with hyaluronic acid, cucumber, and other actives working to impart moisture to the damaged skin barrier<br>(2) Licorice and papaya extracts have natural exfoliant and skin-refining properties<br>(3) Ferment extracts break down active ingredients to "digestible" bits for the skin</div>
+</div>
+<p> </p>
+<div class="meta-title">INGREDIENTS</div>
+<div class="meta-title"></div>
+<div class="meta-description">Water, Glycerin, Butylene Glycol, Dimethicone, Squalane, Butylene Glycol Dicaprylate/Dicaprate, Laurus Nobilis Leaf Extract, Glyceryl Acrylate/Acrylic acid Copolymer, Propylene Glycol, Disodium Adenosine Triphosphate, Algin, Carica Papaya (Papaya) Fruit Extract, Scutellaria Baicalensis Root Extract, Paeonia Suffruticosa Root Extract, Glycyrrhiza Glabra (Licorice) Root Extract, PEG-60 Hydrogenated Castor Oil, Sorbitan Stearate, Sucrose Cocoate, Sodium Hyaluronate, Arnica Montana Flower Extract, Cucumis Sativus (Cucumber) Fruit Extract, Hedera Helix (Ivy) Extract, Sambucus Nigra Flower Extract, Malva Sylvestris (Mallow) Flower Extract, Parietaria Officinalis Extract, Portulaca Oleracea Extract, Perilla Ocymoides Seed Extract, Honey Extract, Royal Jelly Extract, Artemisia Umbelliformis Extract, Buddleja Davidii Extract, Thymus Vulgaris (Thyme) Flower/Leaf Extract, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Isohexadecane, Polysorbate 80, Arginine, Carbomer, Xanthan Gum, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Fragrance</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>power care</s:tag>
+    <s:variant>
+      <id>https://www.betheskin.ca/products/1657064292419</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betheskin.ca/products/1657038438467</id>
+    <published>2018-10-07T23:30:46-04:00</published>
+    <updated>2018-10-07T23:30:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betheskin.ca/products/botanical-nutrition-power-toner"/>
+    <title>BOTANICAL NUTRITION POWER TONER</title>
+    <s:type></s:type>
+    <s:vendor>BeTheSkin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0056/6054/0995/products/BOTANICAL_NUTRITION_POWER_TONER.PNG?v=1538969604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeTheSkin<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A royal-jelly infused toner with all-natural ingredients that balance the skin's pH levels and hydrates the skin while helping to improve skin's firmness. Delivers moisture into the skin and gently preps for serums and lotions.<br></p>
+<p><span>Appropriate for all skin types. Ideal for dry skin. </span><br><br><span>Size: 150ml</span></p>
+<p><span></span>HOW TO USE</p>
+<div class="meta-description">Cleanse face thoroughly then pat dry. Place a dime-size amount of toner either (1) in the palm of your hand and pat onto the face or (2) on a cotton pad or ball and swipe over skin. Follow up with the remaining steps of the skincare routine.</div>
+<div class="meta-description"></div>
+<div class="meta-description">
+<div class="meta-title">THE MUST KNOW</div>
+<div class="meta-title"></div>
+<div class="meta-description">(1) A pH balancing toner ideal for dry skin<br>(2) The unique formulation has a viscous gel texture that hydrates deeply<br>(3) Royal jelly and honey among other natural, botanical extracts deliver nutrition to the skin</div>
+<div class="meta-description"></div>
+<div class="meta-description">
+<div class="meta-title">INGREDIENTS</div>
+<div class="meta-title"></div>
+<div class="meta-description">Water, Laurus Nobilis Leaf Extract, Pentylene Glycol, Glycerin, Polyglyceryl-10 Eicosanedioate/Tetradecanedioate, Biosaccharide Gum-4, Polymethylsilsesquioxane, Arginine, Piper methysticum Leaf/Root/Stem Extract, Hamamelis Virginiana (Witch hazel) Leaf Extract, Artemisia Umbelliformis Extract, Buddleja Davidii Extract, Thymus Vulgaris (Thyme) Flower/Leaf Extract, Honey Extract, Royal Jelly Extract, Arnica Montana Flower Extract, Cucumis Sativus (Cucumber) Fruit Extract, Hedera Helix (Ivy) Extract, Sambucus Nigra Flower Extract, Malva Sylvestris (Mallow) Flower Extract, Parietaria Officinalis Extract, PEG-60 Hydrogenated Castor Oil, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, 1,2-Hexanediol, Butylene Glycol, Illicium Verum (Anise) Fruit Extract, Scutellaria Baicalensis Root Extract, Fragrance</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>power care</s:tag>
+    <s:variant>
+      <id>https://www.betheskin.ca/products/1657038438467</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betheskin.ca/products/1657011077187</id>
+    <published>2018-10-07T23:27:31-04:00</published>
+    <updated>2018-10-07T23:27:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betheskin.ca/products/botanical-moisturizing-soothing-cream"/>
+    <title>BOTANICAL MOISTURIZING SOOTHING CREAM</title>
+    <s:type></s:type>
+    <s:vendor>BeTheSkin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0056/6054/0995/products/BOTANICAL_MOISTURIZING_SOOTHING_CREAM.PNG?v=1538970138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeTheSkin<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<p><span>A cream that works to soothe and moisturize skin while helping to balance oil production. Asiatic leaf extract calms the skin and may help minimize the appearance of pores while it hydrates. </span><br><br><span>Ideal for normal to oily skin. </span><br><br><span>Size: 50ml</span></p>
+<div class="meta-title">INGREDIENTS</div>
+<div class="meta-description">Water, Butylene Glycol, Dimethicone, Biosaccharide Gum-4, Glycerin, Propanediol, Pinus Densiflora Leaf Extract, Butylene Glycol Dicaprylate/dicaprate, Cyclopentasiloxane, Polysilicone-11, Decyl Glucoside, Acacia Decurrens/jojoba/sunflower Seed Wax/polyglyceryl-3 Esters, Scutellaria Baicalensis Root Extract, Paeonia Suffruticosa Root Extract, Glycyrrhiza Glabra (licorice) Root Extract, Hydrolyzed Hyaluronic Acid, Peg-60 Hydrogenated Castor Oil, Cetearyl Olivate, Sorbitan Olivate, Arginine, Carbomer, Lonicera Japonica (honeysuckle) Flower Extract, Vigna Radiata Seed Extract, Sophora Japonica Flower Extract, Panthenol, Passiflora Incarnata Flower Extract, Ribes Nigrum (black Currant) Leaf Extract, Vitis Vinifera (grape) Leaf Extract, Zizyphus Jujuba Fruit Extract, Lentinus Edodes Extract, Panax Ginseng Root Extract, Ginkgo Biloba Leaf Extract, Phellinus Linteus Extract, Cnidium Officinale Root Extract, Sericin, Salvia Officinalis (sage) Leaf Extract, Ceramide 3, Centella Asiatica Leaf Extract, Pinus Sylvestris Bud Extract, Sodium Acrylate/sodium Acryloyldimethyl Taurate Copolymer, Isohexadecane, Polysorbate 80, Fragrance</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>pore care</s:tag>
+    <s:variant>
+      <id>https://www.betheskin.ca/products/1657011077187</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betheskin.ca/products/1656978866243</id>
+    <published>2018-10-07T23:23:05-04:00</published>
+    <updated>2018-10-07T23:23:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betheskin.ca/products/botanical-pore-serum"/>
+    <title>BOTANICAL PORE SERUM</title>
+    <s:type></s:type>
+    <s:vendor>BeTheSkin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0056/6054/0995/products/BOTANICAL_PORE_SERUM.PNG?v=1538969233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeTheSkin<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<p><span>A serum packed with natural ingredients and formulated to soothe the skin and minimize the appearance of pores. Botanical herbs, Alaskan glacier water and sea plants hydrate while helping to control oil production. Ideal for normal to oily skin.</span><br><br><span>Size: 50ml</span></p>
+<div class="meta-title">HOW TO USE</div>
+<div class="meta-description">Cleanse and tone face. Apply 1-2 pumps of serum all over face or concentrate to T-zone and areas of excessive sebum and oil production. Gently pat product into skin with fingertips. Follow with the Botanical Pore Cream to seal hydration and active ingredients in.</div>
+<div class="meta-description"></div>
+<div class="meta-description"></div>
+<div class="meta-description">
+<div class="meta-title">THE MUST KNOW</div>
+<div class="meta-description">(1) Sebum-controlling formula that doesn't dry out skin<br>(2) Refreshing and nourishing botanical ingredients and Alaskan glacier water<span> </span><br>(3) Silky texture and light, clean scent<br><br>
+</div>
+<div class="meta-description"></div>
+<div class="meta-description">
+<div class="meta-title">INGREDIENTS</div>
+<div class="meta-description">Water, Cyclopentasiloxane, Butylene Glycol, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Laurus Nobilis Leaf Extract, Dimethicone, Polysilicone-11, Decyl Glucoside, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Isohexadecane, Polysorbate 80, Poterium Officinale Root Extract, Cinnamomum Cassia Bark Extract, Zingiber Officinale (Ginger) Root Extract, Buddleja Davidii Extract, Thymus Vulgaris (Thyme) Flower/Leaf Extract, Artemisia Umbelliformis Extract, Piper Methysticum Leaf/Root/Stem Extract, Salvia Officinalis (Sage) Leaf Extract, Ecklonia Cava Extract, Hizikia Fusiforme Extract, Codium Tomentosum Extract, Gelidium Cartilagineum Extract, Magnesium Chloride, Potassium Chloride, Aluminum Chloride, Zinc Chloride, Copper Sulfate, Manganese Chloride, Sodium Chloride, Lysine, 1,2-Hexanediol, Illicium Verum (Anise) Fruit Extract, Scutellaria Baicalensis Root Extract, Fragrance</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>pore care</s:tag>
+    <s:variant>
+      <id>https://www.betheskin.ca/products/1656978866243</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.betheskin.ca/products/1650096308291</id>
+    <published>2018-10-06T08:14:36-04:00</published>
+    <updated>2018-10-06T08:14:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.betheskin.ca/products/botanical-pore-toner"/>
+    <title>BOTANICAL PORE TONER</title>
+    <s:type></s:type>
+    <s:vendor>BeTheSkin </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0056/6054/0995/products/botanical_pore_toner.PNG?v=1538968873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BeTheSkin <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<p><span>A toner that balances the skin's pH level with all-natural ingredients. Helps minimize the look of pores by balancing sebum production and providing a clear, matte surface for your following serums and moisturizers. Timeless botanical herbs and Alaskan glacier water help soothe the skin.</span><br><span>Ideal for combination to oily skin types.</span></p>
+<p><span>Size: 150ml</span></p>
+<div class="meta-title">HOW TO USE</div>
+<div class="meta-title"></div>
+<div class="meta-description">Cleanse face thoroughly then pat dry. Place a dime-size amount of toner either (1) in the palm of your hand and pat onto the face or (2) on a cotton pad or ball and swipe over skin. Follow up with the remaining steps of the skincare routine.</div>
+<div class="meta-description"></div>
+<div class="meta-description">
+<div class="meta-title">THE MUST KNOW</div>
+<div class="meta-title"></div>
+<div class="meta-description">(1) A toner that provides sebum control ideal for combination to oily and acne-prone skin<br>(2) Ferment extracts use fermentation technology to break down beneficial ingredients to be absorbed and "digested" by the skin more effectively<br>(3) Features soothing witch hazel, an active ingredient known to combat blemishes and breakouts</div>
+<div class="meta-description"></div>
+<div class="meta-description">
+<div class="meta-title">INGREDIENTS</div>
+<div class="meta-title"></div>
+<div class="meta-description">Water, Alcohol, Butylene Glycol, Laurus Nobilis Leaf Extract, Hamamelis Virginiana (Witch hazel) Leaf Extract, Betaine, Mentha Arvensis Leaf Extract, Buddleja Davidii Extract, Thymus Vulgaris (Thyme) Flower/Leaf Extract, Artemisia Umbelliformis Extract, Ecklonia Cava Extract, Hizikia Fusiforme Extract, Codium Tomentosum Extract, Gelidium Cartilagineum Extract, Piper methysticum Leaf/Root/Stem Extract, Salvia Officinalis (Sage) Leaf Extract, Viola Tricolor Flower/Leaf/Stem Water, C11-15 Pareth-12, PEG-40 Hydrogenated Castor Oil, Magnesium Chloride, Potassium Chloride, Aluminum Chloride, Zinc Chloride, Copper Sulfate, Manganese Chloride, Sodium Chloride, Lysine, Sodium Citrate, Disodium EDTA, Citric Acid, 1,2-Hexanediol, Illicium Verum (Anise) Fruit Extract, Scutellaria Baicalensis Root Extract, Fragrance</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>pore care</s:tag>
+    <s:variant>
+      <id>https://www.betheskin.ca/products/1650096308291</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
